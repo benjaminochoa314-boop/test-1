@@ -1,0 +1,150 @@
+# 📋 Estilos para Federico Villareal - Guía de Elementos HTML
+
+---
+
+## 🏗️ ESTRUCTURA PRINCIPAL
+
+| CATEGORÍA | TAG | TYPE | NOMBRE | DESCRIPCIÓN |
+|-----------|-----|------|---------|-------------|
+| Estructura | `<header>` | **id** | `site-header` | Cabecera principal del sitio |
+| Estructura | `<main>` | **id** | `main-content` | Contenido principal |
+| Estructura | `<aside>` | **id** | `sidebar` | Barra lateral complementaria |
+| Estructura | `<footer>` | **id** | `site-footer` | Pie de página |
+
+---
+
+## 🏠 HEADER
+
+| CATEGORÍA | TAG | TYPE | NOMBRE | DESCRIPCIÓN |
+|-----------|-----|------|---------|-------------|
+| Header | `<h1>` | **class** | `site-title` | Título principal UNI |
+
+---
+
+## 📖 MAIN - PRESENTACIÓN
+
+| CATEGORÍA | TAG | TYPE | NOMBRE | DESCRIPCIÓN |
+|-----------|-----|------|---------|-------------|
+| Presentación | `<section>` | **id** | `presentacion` | Sección presentación institucional |
+| Presentación | `<section>` | **id** | `mision-vision` | Sección misión y visión |
+| Presentación | `<section>` | **id** | `ubicacion-contacto` | Ubicación y contacto |
+
+---
+
+## 🎓 MAIN - ADMISIÓN
+
+| CATEGORÍA | TAG | TYPE | NOMBRE | DESCRIPCIÓN |
+|-----------|-----|------|---------|-------------|
+| Admisión | `<section>` | **id** | `admision` | Sección de admisión |
+| Admisión | `<article>` | **id** | `examen-admision` | Artículo examen de admisión |
+| Admisión | `<article>` | **id** | `modalidades-ingreso` | Artículo modalidades |
+
+---
+
+## 🏫 MAIN - ACADÉMICO
+
+| CATEGORÍA | TAG | TYPE | NOMBRE | DESCRIPCIÓN |
+|-----------|-----|------|---------|-------------|
+| Académico | `<section>` | **id** | `estructura-academica` | Estructura académica general |
+| Académico | `<section>` | **id** | `facultades-carreras` | Lista de facultades |
+| Académico | `<section>` | **id** | `facultad-civil` | Facultad de Ingeniería Civil |
+| Académico | `<section>` | **id** | `facultad-industrial` | Facultad Industrial y Sistemas |
+| Académico | `<section>` | **id** | `facultad-electrica` | Facultad Eléctrica y Electrónica |
+| Académico | `<section>` | **id** | `facultad-mecanica` | Facultad de Ingeniería Mecánica |
+| Académico | `<section>` | **id** | `facultad-quimica` | Facultad Química y Textil |
+| Académico | `<section>` | **id** | `facultad-ciencias` | Facultad de Ciencias |
+| Académico | `<section>` | **id** | `desarrollo-carreras` | Desarrollo detallado de carreras |
+
+---
+
+## 🎯 CARRERAS
+
+| CATEGORÍA | TAG | TYPE | NOMBRE | DESCRIPCIÓN |
+|-----------|-----|------|---------|-------------|
+| Carreras | `<article>` | **class** | `carrera-item` | Artículo individual de carrera |
+| Carreras | `<article>` | **id** | `carrera-civil` | Ingeniería Civil |
+| Carreras | `<article>` | **id** | `carrera-quimica` | Ingeniería Química |
+| Carreras | `<article>` | **id** | `carrera-textil` | Ingeniería Textil |
+| Carreras | `<article>` | **id** | `carrera-industrial` | Ingeniería Industrial |
+| Carreras | `<article>` | **id** | `carrera-sistemas` | Ingeniería de Sistemas |
+
+---
+
+## 👤 PERFIL Y CAMPO
+
+| CATEGORÍA | TAG | TYPE | NOMBRE | DESCRIPCIÓN |
+|-----------|-----|------|---------|-------------|
+| Perfil | `<h3>` | **class** | `perfil-profesional` | Título perfil profesional |
+| Perfil | `<h3>` | **class** | `campo-laboral` | Título campo laboral |
+
+---
+
+## 📌 ASIDE (SIDEBAR)
+
+| CATEGORÍA | TAG | TYPE | NOMBRE | DESCRIPCIÓN |
+|-----------|-----|------|---------|-------------|
+| Sidebar | `<section>` | **id** | `posgrado` | Sección posgrado |
+| Sidebar | `<section>` | **id** | `investigacion` | Investigación y desarrollo |
+| Sidebar | `<section>` | **id** | `vida-universitaria` | Vida universitaria |
+| Sidebar | `<section>` | **id** | `servicios-estudiantiles` | Servicios para estudiantes |
+| Sidebar | `<section>` | **id** | `eventos-noticias` | Eventos y noticias |
+| Sidebar | `<ul>` | **class** | `lista-servicios` | Lista de servicios |
+
+---
+
+## 🔗 FOOTER
+
+| CATEGORÍA | TAG | TYPE | NOMBRE | DESCRIPCIÓN |
+|-----------|-----|------|---------|-------------|
+| Footer | `<section>` | **id** | `datos-institucionales` | Datos institucionales |
+| Footer | `<article>` | **id** | `historia` | Años de historia |
+| Footer | `<article>` | **id** | `contacto-footer` | Contacto en footer |
+| Footer | `<nav>` | **id** | `footer-nav` | Navegación del footer |
+| Footer | `<ul>` | **class** | `enlaces-importantes` | Lista de enlaces |
+| Footer | `<ul>` | **class** | `redes-sociales` | Lista de redes sociales |
+
+---
+
+## 🧭 NAVEGACIÓN
+
+| CATEGORÍA | TAG | TYPE | NOMBRE | DESCRIPCIÓN |
+|-----------|-----|------|---------|-------------|
+| Navegación | `<nav>` | **id** | `main-nav` | Navegación principal (agregar) |
+| Navegación | `<ul>` | **class** | `nav-list` | Lista de navegación |
+
+---
+
+## 🔗 ENLACES
+
+| CATEGORÍA | TAG | TYPE | NOMBRE | DESCRIPCIÓN |
+|-----------|-----|------|---------|-------------|
+| Enlaces | `<a>` | **class** | `external-link` | Enlaces externos |
+| Enlaces | `<a>` | **class** | `internal-link` | Enlaces internos |
+| Enlaces | `<a>` | **class** | `btn-primary` | Botón primario |
+
+---
+
+## 📞 CONTACTO
+
+| CATEGORÍA | TAG | TYPE | NOMBRE | DESCRIPCIÓN |
+|-----------|-----|------|---------|-------------|
+| Contacto | `<address>` | **id** | `direccion-principal` | Dirección principal |
+| Contacto | `<a>` | **class** | `tel-link` | Enlace telefónico |
+| Contacto | `<a>` | **class** | `email-link` | Enlace de email |
+
+---
+
+## 🛠️ UTILIDADES
+
+| CATEGORÍA | TAG | TYPE | NOMBRE | DESCRIPCIÓN |
+|-----------|-----|------|---------|-------------|
+| Utilidades | `<div>` | **class** | `container` | Contenedor general |
+| Utilidades | `<div>` | **class** | `wrapper` | Envoltorio de sección |
+| Utilidades | `<span>` | **class** | `highlight` | Texto destacado |
+| Utilidades | `<p>` | **class** | `intro-text` | Texto introductorio |
+| Utilidades | `<p>` | **class** | `description` | Descripción |
+
+---
+
+Esta guía contiene todos los elementos HTML organizados por categorías para facilitar su uso en el desarrollo del sitio web de la Universidad Federico Villareal.
+
