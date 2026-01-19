@@ -50,7 +50,7 @@
 <!-- ❌ Actual: <address> mal ubicado -->
 <section>
   <h2>Ubicación y Contacto</h2>
-  <address>
+  <address>Avenida Túpac
     <p><strong>Avenida Túpac Amaru...</strong></p>
   </address>
 </section>
