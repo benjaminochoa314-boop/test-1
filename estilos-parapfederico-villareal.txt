@@ -69,8 +69,10 @@
 | Carreras | `<article>` | **id** | `carrera-sistemas` | Ingeniería de Sistemas |
 
 ---
+campo no existente no se aplica estilos  desde lnea 74 hasta el 81
 
-## 👤 PERFIL Y CAMPO
+## 👤 PERFIL Y CAMPO  
+
 
 | CATEGORÍA | TAG | TYPE | NOMBRE | DESCRIPCIÓN |
 |-----------|-----|------|---------|-------------|
